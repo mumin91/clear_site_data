@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "Clear Site Data",
+  "version": "1.0",
+  "description": "Clears data for the current site with one click.",
+  "permissions": [
+    "activeTab",
+    "storage",
+    "browsingData"
+  ],
+  "action": {
+    "default_popup": "popup.html"
+  }
+}
