@@ -5,7 +5,6 @@
   "description": "Clears data for the current site with one click.",
   "permissions": [
     "activeTab",
-    "storage",
     "browsingData"
   ],
   "action": {
